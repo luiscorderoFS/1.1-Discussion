@@ -1,0 +1,14 @@
+1.) https://github.com/SudhanPlayz/Discord-MusicBot
+	This repo is used for a discord music bot that can accept youtube and spotify links after the outage of music bots
+
+2.) https://github.com/Jessecar96/SteamBot
+	This repo is used to search a user's steam inventory and manage their inventory to sell
+
+3.) https://github.com/aaronjanse/asciidots
+	This repo is how to learn how to read and write in a esolang based on ascii art.
+
+4.) https://github.com/github/gitignore
+	This repo is a collection of common .gitignore's to be used in most projects
+
+5.) https://github.com/googleapis/googleapis
+	This repo gives the user interactions with Google's API and their documentation to understand them better.
